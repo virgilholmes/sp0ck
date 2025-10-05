@@ -10,8 +10,9 @@ it is a version of the incoginto web proxy that i stripped down for some persona
 
 to run simply 
 
-git clone https://github.com/virgilholmes/sp0ck
+```git clone https://github.com/virgilholmes/sp0ck```
 
-npm install
+```npm install```
 
-npm run start
+```npm run start```
+
