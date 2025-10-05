@@ -1,0 +1,31 @@
+{
+    "main": {
+        "title": "About sp0ck",
+        "data": "sp0ck is a fork of Incognito. It is lightweight and easy to deploy."
+    },
+    "authors": [
+        {
+            "name": "<a href=\"https://github.com/caracal-js\">Caracal.js</a>",
+            "data": "Creator of Incognito"
+        },
+        {
+            "name": "<a href=\"https://thekyte.net\">sn0w</a>",
+            "data": "Creator of <a href=\"https://sp0ck.cf\">sp0ck</a> and leader of the sp0ck dev team"
+        },
+        {
+            "name": "<a href=\"http://swordfishnetwork.cf\">swordfish network</a>",
+            "data": "just want to congratulate the swordfish network for their amazing work on sp0ck."
+        }
+    ],
+    "socials": [
+        {
+            "name": "<a href=\"https://discord.gg/r48KCCH7Sw\">sp0ck Discord Server</a>",
+            "data": "The official sp0ck dev team discord server."
+        }
+    ],
+    "contact": [
+        {
+            "name": "<a href=\"mailto:sp0ckproxy@gmail.com\">sp0ck email</a>"
+        }
+    ]
+}
